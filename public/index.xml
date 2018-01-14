@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ben</title>
-    <link>http://benjamincichy.com/</link>
+    <link>https://benjamincichy.com/</link>
     <description>Recent content on Ben</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://benjamincichy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benjamincichy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://benjamincichy.com/post/medium/</link>
+      <link>https://benjamincichy.com/post/medium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://benjamincichy.com/post/medium/</guid>
+      <guid>https://benjamincichy.com/post/medium/</guid>
       <description>I rarely post here. See my medium account.</description>
     </item>
     
     <item>
       <title>About Ben</title>
-      <link>http://benjamincichy.com/about/</link>
+      <link>https://benjamincichy.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://benjamincichy.com/about/</guid>
+      <guid>https://benjamincichy.com/about/</guid>
       <description>Whoami?
 A developer. A consultant.
 I like AI. I like Deep Learning. I like UI/UX.
