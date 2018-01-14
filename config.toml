@@ -1,0 +1,31 @@
+baseurl = "http://benjamincichy.com/"
+title = "Ben"
+theme = "nix"
+languageCode = "en-us"
+#disqusShortname = "your_disqus_shortname"
+
+[menu]
+  #menu.header]]
+  #  name = "post"
+  #  weight = 0
+  #  url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "bencten"
+  TwitterID = "ben10wolde"
+  LinkedInID = "bencichy"
+  MediumID = "benjamin.cichy"
+  #GoogleplusID = "your_googleplus"
+  #FacebookID = "your_facebook"
+  #TelegramID = "your_telegram"
+  Name = "Benjamin Cichy"
+  HeaderUsername = "hugo"
+  HeaderHostname = "hugo"
+  Email = "bendotten@gmail.com"
+  About = "AI, Deep Learning, Fullstack, Python"
+  ProfilePicture = "/profile.jpg"
+  #SlackURL = "your_slack_invite_url"
